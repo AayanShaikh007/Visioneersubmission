@@ -1,4 +1,4 @@
-# Head Tracking Mouse
+# Head Tracking Mouse / Vision
 A small program that uses head tracking to move your cursor and move around your pc hands free. 
 
 # How This Works?
